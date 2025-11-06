@@ -8,7 +8,7 @@ header {
   display: flex; justify-content: space-between; align-items: center;
   padding: 1rem 5%; background: #fff; box-shadow: 0 1px 4px rgba(0,0,0,0.05);
 }
-.logo { height: 50px; }
+.logo { height: 90px; }
 nav a {
   margin-left: 20px; text-decoration: none; color: #333; font-weight: 500;
 }
